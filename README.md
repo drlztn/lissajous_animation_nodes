@@ -6,7 +6,7 @@ Blender program to create realtime lissajous curves using [Animation Nodes](http
 
 ## Other links
 - [Jimmy Gunawan LIVENODING](https://www.youtube.com/watch?v=1Ac0SKjx1FI)
-- [Other AN lissajous generator](https://www.youtube.com/watch?v=X-4PFcTjPh4)
+- [Another AN lissajous generator](https://www.youtube.com/watch?v=X-4PFcTjPh4)
 - [About lissajous curves](https://en.wikipedia.org/wiki/Lissajous_curve)
 
 
